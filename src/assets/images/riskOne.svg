@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="30px" viewBox="0 0 60 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="22.4365569" cy="7.5" rx="22" ry="7"></ellipse>
+        <filter x="-30.7%" y="-82.1%" width="161.4%" height="292.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.270588235   0 0 0 0 0.388235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="22.4365569" cy="7.5" rx="12" ry="4"></ellipse>
+        <filter x="-54.2%" y="-137.5%" width="208.3%" height="425.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.839215686   0 0 0 0 0.709803922   0 0 0 0 0.125490196  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="风险预警可视化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="可视化-企业风险" transform="translate(-1350.000000, -903.000000)">
+            <g id="地图" transform="translate(633.500000, 372.000000)">
+                <g id="分组-38" transform="translate(105.277778, 78.000000)">
+                    <g id="分组-42" transform="translate(0.000000, 0.060377)">
+                        <g id="分组-16" transform="translate(0.222222, 0.439623)">
+                            <g id="分组-15">
+                                <g id="分组-22" transform="translate(618.563443, 458.000000)">
+                                    <g id="椭圆形" opacity="0.5">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                        <use stroke-opacity="0.5" stroke="#FFEFA9" stroke-width="1" fill-opacity="0.5" fill="#CE4563" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    </g>
+                                    <g id="椭圆形">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use fill="#FFFB8C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

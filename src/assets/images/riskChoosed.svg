@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="54px" viewBox="0 0 129 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="57.3549383" cy="23.6420649" rx="14.0860768" ry="4.63007759"></ellipse>
+        <filter x="-47.9%" y="-124.2%" width="195.8%" height="391.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.839215686   0 0 0 0 0.709803922   0 0 0 0 0.125490196  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="57.9183813" cy="24.5680804" rx="25.9183813" ry="8.33413965"></ellipse>
+        <filter x="-26.0%" y="-69.0%" width="152.1%" height="262.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.270588235   0 0 0 0 0.388235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-5" cx="57.5" cy="24.2339408" rx="40.5" ry="13"></ellipse>
+        <filter x="-16.7%" y="-44.2%" width="133.3%" height="203.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.270588235   0 0 0 0 0.388235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-7" cx="56.5" cy="26.2339408" rx="56.5" ry="18"></ellipse>
+        <filter x="-11.9%" y="-31.9%" width="123.9%" height="175.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.807843137   0 0 0 0 0.270588235   0 0 0 0 0.388235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFF3A0" offset="0%"></stop>
+            <stop stop-color="#FFAA67" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="风险预警可视化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="可视化-企业风险" transform="translate(-880.000000, -525.000000)">
+            <g id="地图" transform="translate(633.500000, 372.000000)">
+                <g id="分组-38" transform="translate(105.277778, 78.000000)">
+                    <g id="分组-42" transform="translate(0.000000, 0.060377)">
+                        <g id="分组-16" transform="translate(0.222222, 0.439623)">
+                            <g id="分组-15">
+                                <g id="分组-22" transform="translate(148.563443, 74.000000)">
+                                    <g id="椭圆形">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                        <use stroke="#D6B520" stroke-width="1" fill-opacity="0.5" fill="#D6B520" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    </g>
+                                    <g id="椭圆形" opacity="0.5">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use stroke="#FFEFA9" stroke-width="1" fill-opacity="0.5" fill="#CE4563" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                    <g id="椭圆形" opacity="0.5">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                        <use stroke="#FFEFA9" stroke-width="1" fill-opacity="0.5" fill="#CE4563" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    </g>
+                                    <g id="椭圆形" opacity="0.16">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                        <use stroke="#FFEFA9" stroke-width="1" fill-opacity="0.5" fill="#CE4563" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    </g>
+                                    <g id="分组-40" transform="translate(45.651401, 0.214844)">
+                                        <circle id="椭圆形" fill="url(#linearGradient-9)" cx="12" cy="12.5" r="12"></circle>
+                                        <path d="M16.4230389,11.3050593 L12.9215612,11.2216908 C12.6158766,11.2216908 12.4769291,10.9715853 12.5880871,10.6936902 L14.561142,6.05284269 C14.6723,5.77494763 14.5333525,5.55263158 14.227668,5.55263158 L11.2541908,5.55263158 C10.9207167,5.58042108 10.6428217,5.77494763 10.5316637,6.05284269 L7.61376552,13.8894834 C7.50260749,14.1673784 7.66934453,14.3896945 7.94723959,14.3896945 L10.7539797,14.3896945 C11.0318748,14.3896945 11.2264013,14.6398 11.1708223,14.9454846 L10.2537686,19.5029636 C10.003663,20.6979124 10.3649266,20.8646494 11.0596643,19.8642272 L16.645355,11.7219019 C16.8398815,11.5273754 16.7287235,11.3050593 16.4230389,11.3050593 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
